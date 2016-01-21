@@ -1,0 +1,53 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: schaeffer.it
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://schaeffer.it
+baseurl: ""
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/niklasschaeffer
+disqus_shortname: "niklasschaeffer"
+disqus_site_shortname: "niklasschaeffer"
+
+# Author settings
+author:
+  name      : Niklas Schäffer
+  job       : Software Engineer
+  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb     : /images/author.jpg
+  email     : niklass.schaeffer@gmail.com
+  url       : http://schaeffer.it
+  github    : http://github.com/niklasschaeffer
+  twitter   : http://twitter.com/niklasschaeffer
+  facebook  : http://facebook.com/wildrelaxo
+  linkedin  : https://de.linkedin.com/in/niklasschaeffer
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
