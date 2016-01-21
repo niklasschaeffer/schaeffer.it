@@ -23,8 +23,8 @@ baseurl: ""
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/niklasschaeffer
-disqus_shortname: "niklasschaeffer"
-disqus_site_shortname: "niklasschaeffer"
+disqus_shortname: "schaefferit"
+disqus_site_shortname: "schaefferit"
 
 # Author settings
 author:
