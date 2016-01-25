@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Ich bin 27 Jahre ald und wohne derzeit in Duisburg. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Ich arbeite in verschiedenen Projekten, sowohl im Open-Source als auch Closed-Source Bereich. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Meine Ziele sind effective und gute Arbeit zu leisen und gute Ergebnisse mit meiner Arbeit zu erzielen.
+
+Falls es dir jemals in den Sinn gekommen ist dein eigenes Projekt zu starten dann zöger nicht und kontaktiere mich.
+
+Vielleicht kann ich dir helfen deine Ziele genauso schnell zu erreichen wie ich meine.

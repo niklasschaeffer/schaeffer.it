@@ -14,15 +14,15 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: schaeffer.it
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Niklas Schäffer - Software Engineer
+description: "Die offizielle Internet-Präsenz von Niklas Schäffer"
+keywords: "development, web, laravel, zend"
 url: http://schaeffer.it
 baseurl: ""
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/niklasschaeffer
+repo: http://github.com/niklasschaeffer/schaeffer.it
 disqus_shortname: "schaefferit"
 disqus_site_shortname: "schaefferit"
 
@@ -30,9 +30,9 @@ disqus_site_shortname: "schaefferit"
 author:
   name      : Niklas Schäffer
   job       : Software Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  bio       : "Enthusiastische Performance, Responsives Design und Usability, immer auf der Suche nach dem besten Projekt und gutem Kaffee."
   thumb     : /images/author.jpg
-  email     : niklass.schaeffer@gmail.com
+  email     : niklas@schaeffer.it
   url       : http://schaeffer.it
   github    : http://github.com/niklasschaeffer
   twitter   : http://twitter.com/niklasschaeffer
