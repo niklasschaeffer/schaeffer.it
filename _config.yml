@@ -16,10 +16,9 @@ sass:
 # SEO settings
 title: Niklas Schäffer - Software Engineer
 description: "Die offizielle Internet-Präsenz von Niklas Schäffer"
-keywords: "development, web, laravel, zend"
+keywords: "development, web, laravel, zend, js, npm, vuejs, php, backend"
 url: http://schaeffer.it
 baseurl: ""
-# baseurl: ""
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/niklasschaeffer/schaeffer.it
